@@ -15,6 +15,8 @@ export type WeekDay =
   | "friday"
   | "saturday"
 
+export type TargetAudience = "men" | "women" | "children"
+
 export type Professional = {
   id: string
   name: string
@@ -22,6 +24,7 @@ export type Professional = {
   bio: string
   avatar: string
   serviceIds: string[]
+  targetAudience: TargetAudience[]
   workingHours: Record<WeekDay, WorkingDay>
 }
 

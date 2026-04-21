@@ -16,5 +16,23 @@
     "name": "Coloración",
     "duration": 60,
     "price": 1500
+  },
+  {
+    "id": "svc-4",
+    "name": "Diseño de barba",
+    "duration": 30,
+    "price": 600
+  },
+  {
+    "id": "svc-5",
+    "name": "Corte de ceja",
+    "duration": 15,
+    "price": 300
+  },
+  {
+    "id": "svc-6",
+    "name": "Alisado / keratina",
+    "duration": 90,
+    "price": 3500
   }
 ]

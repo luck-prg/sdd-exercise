@@ -51,7 +51,7 @@ export async function POST(request: Request) {
   }
 
   const newBooking: Booking = {
-    id: `book-${Date.now()}`,
+    id: crypto.randomUUID(),
     professionalId,
     serviceId,
     clientName,

@@ -5,7 +5,8 @@
     "role": "Barbero Senior",
     "bio": "10 años de experiencia en cortes clásicos y modernos. Especialista en degradados y diseño de barba.",
     "avatar": "/avatars/carlos.jpg",
-    "serviceIds": ["svc-1", "svc-2"],
+    "serviceIds": ["svc-1", "svc-2", "svc-4", "svc-5"],
+    "targetAudience": ["men", "children"],
     "workingHours": {
       "monday":    { "start": "09:00", "end": "18:00" },
       "tuesday":   { "start": "09:00", "end": "18:00" },
@@ -21,7 +22,8 @@
     "role": "Estilista",
     "bio": "Especialista en coloración y tratamientos capilares. Formada en Buenos Aires y Madrid.",
     "avatar": "/avatars/valentina.jpg",
-    "serviceIds": ["svc-1", "svc-3"],
+    "serviceIds": ["svc-1", "svc-3", "svc-5", "svc-6"],
+    "targetAudience": ["women", "children"],
     "workingHours": {
       "monday":    null,
       "tuesday":   { "start": "10:00", "end": "19:00" },
@@ -37,7 +39,8 @@
     "role": "Barbero",
     "bio": "Apasionado por la cultura barber. Cortes urbanos, fade y atención al detalle en cada servicio.",
     "avatar": "/avatars/martin.jpg",
-    "serviceIds": ["svc-1", "svc-2"],
+    "serviceIds": ["svc-1", "svc-2", "svc-4"],
+    "targetAudience": ["men"],
     "workingHours": {
       "monday":    { "start": "11:00", "end": "20:00" },
       "tuesday":   { "start": "11:00", "end": "20:00" },

@@ -75,5 +75,93 @@
     "startTime": "10:00",
     "endTime": "10:30",
     "status": "cancelled"
+  },
+  {
+    "id": "e1ac0666-9a6d-4d83-8919-9e286dcbe463",
+    "professionalId": "prof-1",
+    "serviceId": "svc-1",
+    "clientName": "Cliente",
+    "clientPhone": "Sin teléfono",
+    "date": "2026-04-21",
+    "startTime": "09:30",
+    "endTime": "10:00",
+    "status": "confirmed"
+  },
+  {
+    "id": "48e735b1-7193-4dd4-8e99-548cd10ab159",
+    "professionalId": "prof-2",
+    "serviceId": "svc-6",
+    "clientName": "Cliente",
+    "clientPhone": "Sin teléfono",
+    "date": "2026-04-21",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "status": "confirmed"
+  },
+  {
+    "id": "50d376b4-e182-4960-a881-79c33b03ff68",
+    "professionalId": "prof-2",
+    "serviceId": "svc-6",
+    "clientName": "Cliente",
+    "clientPhone": "Sin teléfono",
+    "date": "2026-04-21",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "status": "confirmed"
+  },
+  {
+    "id": "c9411be2-d0d7-4208-bb86-b03a9f8122bd",
+    "professionalId": "prof-2",
+    "serviceId": "svc-6",
+    "clientName": "Cliente",
+    "clientPhone": "Sin teléfono",
+    "date": "2026-04-21",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "status": "confirmed"
+  },
+  {
+    "id": "89b174e2-cc64-4334-b3ac-d1a8a1bf93ac",
+    "professionalId": "prof-2",
+    "serviceId": "svc-6",
+    "clientName": "Cliente",
+    "clientPhone": "Sin teléfono",
+    "date": "2026-04-21",
+    "startTime": "14:30",
+    "endTime": "16:00",
+    "status": "confirmed"
+  },
+  {
+    "id": "5890d6c3-f020-4601-864e-0b96a82e5a00",
+    "professionalId": "prof-1",
+    "serviceId": "svc-1",
+    "clientName": "Test Cliente",
+    "clientPhone": "11-0000-0000",
+    "date": "2026-05-10",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "status": "confirmed"
+  },
+  {
+    "id": "c1616f6b-e76d-4400-be55-11d9a278e80f",
+    "professionalId": "prof-1",
+    "serviceId": "svc-2",
+    "clientName": "Cliente",
+    "clientPhone": "Sin teléfono",
+    "date": "2026-04-21",
+    "startTime": "11:15",
+    "endTime": "12:00",
+    "status": "confirmed"
+  },
+  {
+    "id": "7e7d0041-e146-4d2c-aa1f-58572e7a33d1",
+    "professionalId": "prof-2",
+    "serviceId": "svc-1",
+    "clientName": "Cliente",
+    "clientPhone": "Sin teléfono",
+    "date": "2026-04-21",
+    "startTime": "16:00",
+    "endTime": "16:30",
+    "status": "confirmed"
   }
 ]
