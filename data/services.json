@@ -1,0 +1,20 @@
+[
+  {
+    "id": "svc-1",
+    "name": "Corte de cabello",
+    "duration": 30,
+    "price": 500
+  },
+  {
+    "id": "svc-2",
+    "name": "Corte + barba",
+    "duration": 45,
+    "price": 800
+  },
+  {
+    "id": "svc-3",
+    "name": "Coloración",
+    "duration": 60,
+    "price": 1500
+  }
+]

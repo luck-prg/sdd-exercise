@@ -1,0 +1,79 @@
+[
+  {
+    "id": "book-1",
+    "professionalId": "prof-1",
+    "serviceId": "svc-1",
+    "clientName": "Juan Pérez",
+    "clientPhone": "11-4523-1234",
+    "date": "2026-04-21",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "status": "confirmed"
+  },
+  {
+    "id": "book-2",
+    "professionalId": "prof-1",
+    "serviceId": "svc-2",
+    "clientName": "Diego Ramírez",
+    "clientPhone": "11-5678-9012",
+    "date": "2026-04-21",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "status": "confirmed"
+  },
+  {
+    "id": "book-3",
+    "professionalId": "prof-2",
+    "serviceId": "svc-3",
+    "clientName": "Laura Gómez",
+    "clientPhone": "11-3456-7890",
+    "date": "2026-04-22",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "status": "confirmed"
+  },
+  {
+    "id": "book-4",
+    "professionalId": "prof-2",
+    "serviceId": "svc-1",
+    "clientName": "Sofía Torres",
+    "clientPhone": "11-2345-6789",
+    "date": "2026-04-22",
+    "startTime": "11:30",
+    "endTime": "12:00",
+    "status": "confirmed"
+  },
+  {
+    "id": "book-5",
+    "professionalId": "prof-3",
+    "serviceId": "svc-2",
+    "clientName": "Matías Fernández",
+    "clientPhone": "11-6789-0123",
+    "date": "2026-04-23",
+    "startTime": "11:00",
+    "endTime": "11:45",
+    "status": "confirmed"
+  },
+  {
+    "id": "book-6",
+    "professionalId": "prof-1",
+    "serviceId": "svc-1",
+    "clientName": "Nicolás Suárez",
+    "clientPhone": "11-7890-1234",
+    "date": "2026-04-24",
+    "startTime": "14:00",
+    "endTime": "14:30",
+    "status": "confirmed"
+  },
+  {
+    "id": "book-7",
+    "professionalId": "prof-3",
+    "serviceId": "svc-1",
+    "clientName": "Tomás Blanco",
+    "clientPhone": "11-8901-2345",
+    "date": "2026-04-25",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "status": "cancelled"
+  }
+]
